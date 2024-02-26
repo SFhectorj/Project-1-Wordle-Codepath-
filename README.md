@@ -29,7 +29,7 @@ The following **additional** features are implemented:
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+This project was fairly challenging, mainly because I have not done any coding at all since December. I had to brush up on some of the basics and translate what little Python I know into Swift. This was the first time I also really dealt with a complex project that used multiple files, so that was also an adjustment. Similarly passing in and calling closures was a bit difficult to understand, which was a part of objective 2.
 
 ## License
 
